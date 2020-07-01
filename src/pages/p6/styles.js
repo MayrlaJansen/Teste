@@ -117,6 +117,7 @@ export const Container = styled.div`
             overflow: hidden;
             height: 29vh;
             padding-top: 0;
+            margin-top: 0%;
         }
         @media(min-width: 1200px) {
             margin-top: 0%;
