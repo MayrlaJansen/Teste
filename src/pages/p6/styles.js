@@ -136,7 +136,7 @@ export const Container = styled.div`
     img#box2 {
         position: absolute;
         width: 100%;
-        margin-top: 10px;
+        margin-top: 0px;
         pointer-events: none;
 
         @media(min-width: 900px) {
