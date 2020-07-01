@@ -105,7 +105,7 @@ export const Container = styled.div`
         }
     }
     div#box2 {
-        margin-top: -11%;
+        margin-top: 0%;
         margin-left:10%;
         display: flex;
         align-items: center;
