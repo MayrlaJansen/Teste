@@ -1,4 +1,5 @@
-# Info-UNASUS
+# Info-EJIM
+
 Modelo para desenvolvimento de infográfico.
 
 # Estrutura dos arquivos
